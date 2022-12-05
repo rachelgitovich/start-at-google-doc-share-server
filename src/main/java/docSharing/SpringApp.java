@@ -8,6 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 public class SpringApp {
     public static void main(String[] args) {
+        System.out.println("OVED SOF SOF");
         SpringApplication.run(SpringApp.class, args);
     }
 }
